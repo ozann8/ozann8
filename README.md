@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Ozan.
 
 <!--
 **ozann8/ozann8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75545621/173871734-96b29249-443a-4173-aadd-4de1cbaa3798.gif" width="450" height="320" />
 
 - 🎓 I graduated from Suleyman Demirel University in 2022.
 - 🤖 I completed my bachelor's degree in computer engineering.
